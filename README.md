@@ -1,10 +1,14 @@
 <h3 align="center"> Hey there!  👩🏽‍💻</h3>
 
-My name is Ívina (reads Eevnah). I'm a fresh software engineer at Capgemini based in London 🇬🇧 with roots in the Netherlands 🇳🇱 and Brazil 🇧🇷.
+<p> My name is <b>Ívina</b> (reads Eevnah). I'm a fresh software engineer at Capgemini based in London 🇬🇧 with roots in the Netherlands 🇳🇱 and Brazil 🇧🇷. </p>
 
+<ul>
+  <li>💻 I am passionate about technology, computers (and how they work) and coffee!</li>
+  <li>🎓 I graduated from @CodeYourFuture.</li>
+  <li> 🌱 I’m currently learning Node.js and TDD.</li>
+</ul>
 
-- 💻 I am passionate about technology, computers (and how they work) and coffee!
-- 🎓 I graduated from @CodeYourFuture.
-- 🌱 I’m currently learning Node.js and TDD.
-- 📫 How to reach me: @ivinapontes
-- 😄 Pronouns: She/Her
+<p align="center">
+  <a href="https://ivinapontes.com">Website</a> ★
+  <a href="https://twitter.com/ivi_pontes">Twitter</a>
+</p>
