@@ -1,4 +1,4 @@
-<h3 align="center">### Hey there!  👩🏽‍💻</h3>
+<h3 align="center"> Hey there!  👩🏽‍💻</h3>
 
 My name is Ívina (reads Eevnah). I'm a fresh software engineer at Capgemini based in London 🇬🇧 with roots in the Netherlands 🇳🇱 and Brazil 🇧🇷.
 
