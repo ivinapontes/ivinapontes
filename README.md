@@ -6,7 +6,7 @@ My name is Ívina *(reads Eevnah)*. I'm a fresh software engineer based in Londo
 💻 I am passionate about technology, computers (and how they work) and coffee!\
 🎓 Graduated from [CodeYourFuture](https://www.codeyourfuture.io/).\
 🌱 I’m currently learning Node.js and TDD.\
-🎨 I draw doodles as hobby,
+🎨 I draw doodles as hobby.
 
 
 <p align="center" >Say hi: <br/>
