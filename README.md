@@ -9,6 +9,5 @@ My name is Ívina *(reads Eevnah)*. I'm a software engineer based in London 🇬
 
 <p align="center" >Say hi: <br/>
   <a href="https://ivinapontes.com">Website</a> ✨
-  <a href="https://twitter.com/ivi_pontes">Twitter</a> ✨
   <a href="https://www.linkedin.com/in/ivinapontes/">LinkedIn </a>
 </p>
