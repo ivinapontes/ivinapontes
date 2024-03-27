@@ -1,6 +1,7 @@
-<h3 align="center"> Hey there!  👩🏽‍💻 👋🏽</h3>
+<div align="center">
+  <h3> Hey there!  👩🏽‍💻 👋🏽</h3>
 
-My name is Ívina *(reads Eevnah)*. I'm a software engineer based in London 🇬🇧 with roots in the Netherlands 🇳🇱 and Brazil 🇧🇷. </p>
+My name is Ívina *(reads Eevnah)*. I'm a software engineer based in London 🇬🇧
 
 💻 I am passionate about technology, computers (and how they work) and coffee!\
 🎓 Graduated from [CodeYourFuture](https://www.codeyourfuture.io/).\
@@ -11,3 +12,4 @@ My name is Ívina *(reads Eevnah)*. I'm a software engineer based in London 🇬
   <a href="https://ivinapontes.com">Website</a> ✨
   <a href="https://www.linkedin.com/in/ivinapontes/">LinkedIn </a>
 </p>
+</div>
